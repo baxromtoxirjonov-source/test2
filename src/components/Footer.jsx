@@ -53,9 +53,11 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center pt-8 text-xs text-gray-500 gap-4">
           <p>&copy; {new Date().getFullYear()} EndoCare Endokrinologiya amaliyoti. Barcha huquqlar himoyalangan.</p>
           <div className="flex gap-4">
+            
             <a href="#" className="hover:text-blue-600 hover:underline transition-colors">Tibbiy javobgarlikdan voz kechish</a>
             <a href="#" className="hover:text-blue-600 hover:underline transition-colors">Foydalanish imkoniyati bayonnomasi</a>
           </div>
+          
         </div>
 
       </div>

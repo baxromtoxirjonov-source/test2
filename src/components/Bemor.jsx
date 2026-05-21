@@ -15,6 +15,7 @@ const Bemor = () => {
           <p className='text-gray-600 text-lg leading-relaxed mt-2'>
             Eng so'nggi endokrin tadqiqotlar va salomatlik bo'yicha foydali maslahatlar bilan tanishing.
           </p>
+        
         </div>
 
         <div className='grid grid-cols-1 md:grid-cols-3 gap-8'>
