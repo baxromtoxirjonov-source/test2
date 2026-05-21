@@ -1,6 +1,6 @@
 import React from 'react'
-import Header from './components/header'
-import HEro from './components/HEro'
+import Header from './components/Header'
+import Hero from './components/Hero'
 import Kunlik from './components/Kunlik'
 import Bemor from './components/Bemor'
 import Metobalizm from './components/Metobalizm'
@@ -10,7 +10,7 @@ const App = () => {
   return (
     <div>
       <Header/>
-      <HEro/>
+      <Hero/>
       <Kunlik/>
       <Bemor/>
       <Metobalizm/>
